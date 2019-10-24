@@ -1,0 +1,46 @@
+<%@page import="javax.swing.text.DefaultEditorKit.CutAction"%>
+<%@page import="com.bridgelabz.loginRegister.ServletSession.Customer"%>
+<%@page import="java.util.List"%>
+<%@page import="java.util.ArrayList"%>
+
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+	pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+
+<%
+	List<Customer> customerList = (ArrayList<Customer>) request.getSession().getAttribute("List");
+	for (int i = 0; i < customerList.size(); i++) {
+%>
+<form action="Welcome" method="post">welcome ${username}....</form>
+<table class="table" border="1" align="center">
+	<thead>
+		<tr>
+			<th width="200" hight="100" scope="col">Name</th>
+			<th width="200" hight="100" scope="col">email</th>
+		</tr>
+	</thead>
+	<tbody>
+
+		<tr>
+			<td><%out.print(customerList.get(i).getName())%></td>
+			<td><%out.print(customerList.get(i).getEmail())%></td>
+
+		</tr>
+		<%
+			}
+		%>
+	</tbody>
+</table>
+<form action="logout">
+	<input type="submit" value="logout">
+</form>
+
+
+
+</body>
+</html>

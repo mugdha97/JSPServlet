@@ -1,0 +1,24 @@
+<%@page import="java.sql.ResultSet"%>
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+	pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+	<form action="Content" method="post">
+		hello
+
+		<%
+		ResultSet rs = (ResultSet) session.getAttribute("rs");
+		rs.next();
+
+		out.println(rs.getString("uname"));
+		out.println(rs.getString("email"));
+	%>
+		<button type="submit" value="Content">Click</button>
+	</form>
+</body>
+</html>

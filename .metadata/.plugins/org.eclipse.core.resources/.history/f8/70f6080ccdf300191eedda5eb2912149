@@ -1,0 +1,29 @@
+package com.bridgelabz.loginRegister.ServletSession;
+
+import java.io.IOException;
+import java.sql.SQLException;
+
+import javax.servlet.ServletException;
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+import javax.servlet.http.HttpSession;
+
+/**
+ * Servlet implementation class data
+ */
+@WebServlet("/data")
+public class data extends HttpServlet {
+	
+	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		String uname=request.getParameter("uname");
+		
+		HttpSession session=request.getSession();//create session 
+		session.setAttribute("username",uname);//set session attribute 
+			response.sendRedirect("content.java");
+	}
+
+}
+
+

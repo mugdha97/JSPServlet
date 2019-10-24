@@ -1,0 +1,6 @@
+package com.bridgelabz.loginPage.dao;
+
+public class demo {
+DbConnector db=new DbConnector();
+db.list();
+}

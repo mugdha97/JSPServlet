@@ -1,0 +1,51 @@
+<%@page import="java.util.ArrayList"%>
+<%@page import="com.bridgelabz.loginRegister.ServletSession.Customer"%>
+<%@page import="java.util.List"%>
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+	pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+	<form action="welcome" method="post">
+		<%
+			// retrieve your list from the request, with casting
+		%>
+		welcome ${username}....
+
+		<table>
+			<thead>
+				<tr>
+					<th>Name</th>
+					<th>Email</th>
+				</tr>
+			</thead>
+			<tbody>
+				<%
+					Customer user = new Customer();
+					if (!list.isEmpty()) {
+
+						for (int i = 0; i < list.size(); i++) {
+
+							user = list.get(i);
+
+						}
+				%>
+				<tr>
+					<td><%=user.getName()%></td>
+					<td><%=user.getEmail()%></td>
+
+				</tr>
+				<%
+					}
+					;
+				%>
+			</tbody>
+		</table>
+	</form>
+
+</body>
+</html>

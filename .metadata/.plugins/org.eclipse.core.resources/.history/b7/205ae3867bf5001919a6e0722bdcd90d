@@ -1,0 +1,32 @@
+package com.bridgelabz.loginPage.controller;
+
+import java.io.IOException;
+import java.sql.SQLException;
+
+import javax.servlet.ServletException;
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+import com.bridgelabz.loginPage.dao.DbConnector;
+import com.bridgelabz.loginPage.model.Customer;
+
+
+@WebServlet("/welcome")
+public class welcome extends HttpServlet {
+	
+	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		DbConnector dao = new DbConnector();
+		Customer customer = new Customer(); // create instance of customer
+		try {
+			Object list = DbConnector.list(customer);
+			System.out.println(list);
+			
+		} catch (SQLException e) {
+			e.printStackTrace();
+		}
+		
+	}
+
+}

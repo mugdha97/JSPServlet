@@ -1,0 +1,44 @@
+package com.bridgelabz.loginRegister.ServletSession;
+
+import java.io.IOException;
+import java.sql.SQLException;
+import java.util.List;
+
+import javax.servlet.ServletException;
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+import javax.servlet.http.HttpSession;
+
+import com.brdgelabz.loginRegister.DB.DbConnection;
+import com.brdgelabz.loginRegister.DB.listDao;
+
+@WebServlet("/login")
+public class login extends HttpServlet {
+
+	protected void doPost(HttpServletRequest request, HttpServletResponse response)
+			throws ServletException, IOException {
+		String uname = request.getParameter("uname");
+		String password = request.getParameter("password");
+		DbConnection login = new DbConnection();
+		try {
+			if (login.checkUser(uname, password)) {
+
+				List<Customer> list = listDao.getList();
+				/// request.setAttribute("List",list);
+				HttpSession session = request.getSession();
+				session.setAttribute("List", list);
+			//	System.out.println(list);
+				session.setAttribute("username", uname);// set session attribute
+				request.getRequestDispatcher("Welcome.jsp").forward(request, response);
+
+			} else {
+				response.sendRedirect("Registration.jsp");
+			}
+		} catch (SQLException e) {
+			e.printStackTrace();
+		}
+	}
+
+}

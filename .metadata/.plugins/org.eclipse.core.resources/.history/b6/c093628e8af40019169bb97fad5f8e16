@@ -1,0 +1,28 @@
+package com.bridgelabz.loginPage.controller;
+
+import java.io.IOException;
+import javax.servlet.ServletException;
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+/**
+ * Servlet implementation class logout
+ */
+@WebServlet("/logout")
+public class logout extends HttpServlet {
+	static Connection connection = null;
+	PreparedStatement st = null;
+
+	public void doPost(HttpServletRequest req, HttpServletResponse res) throws IOException, ServletException{
+		
+//		ResultSet rs=(ResultSet) req.getAttribute("resultSet");
+		RequestDispatcher rd=req.getRequestDispatcher("Login.jsp");
+		HttpSession session= req.getSession();
+		session.removeAttribute("email");
+		session.removeAttribute("password");
+		rd.forward(req, res);
+		
+	}
+}

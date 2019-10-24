@@ -1,0 +1,55 @@
+package com.brdgelabz.loginRegister.DB;
+
+import java.io.IOException;
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.PreparedStatement;
+import java.sql.ResultSet;
+import java.sql.SQLException;
+
+import javax.servlet.ServletException;
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+import com.mysql.cj.protocol.Resultset;
+@WebServlet("/Welcome")
+public class Content {
+	static String sql="select * from detail";
+	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException 
+	{
+		
+		Connection con = null;
+		String url = "jdbc:mysql://localhost:3306/";
+		String db = "login";
+		String driver ="com.mysql.cj.jdbc.Driver";
+		try {
+			Class.forName(driver);
+			con = DriverManager.getConnection(url + db, "root", "password");
+			try {
+				PreparedStatement smt=con.prepareStatement("select * from detail");
+				
+			      ResultSet rs = smt.executeQuery();
+
+			      //STEP 5: Extract data from result set
+			      while(rs.next()){
+			         //Retrieve by column name
+			         String name =rs.getString("name");
+			         String mail = rs.getString("email");
+			         //Display values
+			         System.out.print("\nName: " + name);
+			         System.out.print("\nAddress: " + mail);
+			       
+			} 
+			}catch(Exception e) {
+				
+			}finally{
+			con.close();
+		}
+	//	return null;
+		
+	}catch(Exception e) {
+		
+	}
+}
+}

@@ -1,0 +1,70 @@
+package com.bridgelabz.loginRegister.ServletSession;
+
+import java.io.IOException;
+import java.sql.Connection;
+import java.sql.PreparedStatement;
+import java.sql.ResultSet;
+import java.sql.SQLException;
+import java.sql.Statement;
+
+import javax.servlet.RequestDispatcher;
+import javax.servlet.ServletException;
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+import com.brdgelabz.loginRegister.DB.DbConnection;
+
+
+
+@WebServlet("/login")
+public class login extends HttpServlet {
+	
+	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		String uname=request.getParameter("uname");
+		String password=request.getParameter("password");
+		try {
+			Connection con = DbConnection.getConnection();
+			
+			System.out.println("query to be sent");
+			
+			PreparedStatement pst=con.prepareStatement("SELECT * FROM login.detail where uname=?");
+			pst.setString(1,uname);
+			ResultSet rs = pst.executeQuery();
+			
+			//rs.next();
+			System.out.println("query done");
+			if(rs.next()){
+				System.out.println(rs.getString(1));
+				}
+			//System.out.println(rs.getString(1));
+			System.out.println("resultSer");
+			request.setAttribute("resultSet", rs);
+			RequestDispatcher rd = request.getRequestDispatcher("Welcome.jsp");
+			rd.forward(request, response);
+		} catch (SQLException e1) {
+			// TODO Auto-generated catch block
+			e1.printStackTrace();
+		}
+		
+
+//		try {
+////			if(login.checkUser(uname, password))
+////			{
+////			HttpSession session=request.getSession();//create session 
+////			session.setAttribute("username",uname);//set session attribute 
+////				response.sendRedirect("Welcome.jsp");
+////			}
+////			else
+////			{
+////				response.sendRedirect("Registration.jsp");
+////			}
+//		} catch (SQLException e) {
+//			e.printStackTrace();
+//		}
+	}
+
+	
+
+}

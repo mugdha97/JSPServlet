@@ -1,0 +1,71 @@
+package com.bridgelabz.loginPage.controller;
+
+import java.io.IOException;
+import java.io.PrintWriter;
+import java.sql.Connection;
+import java.sql.PreparedStatement;
+import java.sql.SQLException;
+
+import javax.servlet.RequestDispatcher;
+import javax.servlet.ServletException;
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+import com.bridgelabz.loginPage.dao.DbConnector;
+import com.bridgelabz.loginPage.model.Customer;
+import com.bridgelabz.loginPage.model.LoginPage;
+
+@WebServlet("/Register")
+public class Register extends HttpServlet {
+	static Connection connection = null;
+	PreparedStatement st = null;
+
+	public void doPost(HttpServletRequest req, HttpServletResponse res) throws IOException, ServletException {
+		DbConnector dao = new DbConnector();
+		Customer customer = new Customer(); // create instance of customer
+		String email = req.getParameter("email"); // getting parameter from register jsp page
+		String password = req.getParameter("password");
+		String name = req.getParameter("name");
+		String confirmPassword = req.getParameter("confirm_password");
+
+		customer.setName(name); // pass that parameter to customer class
+		customer.setPassword(password);
+		customer.setEmail(email);
+		
+		dao.register(customer);
+
+		 // establish connection
+		try {
+			st = connection.prepareStatement(query); // set query
+			st.setString(1, name); // set parameter
+			st.setString(2, password);
+			st.setString(3, email);
+			st.executeUpdate();
+			System.out.println("New User register successfully....");
+			PrintWriter out = res.getWriter();
+
+			if (LoginPage.isAvailableCustomer(customer)) // check user in DB if already present
+			{
+				out.println("You are already registered,Kindly login");
+				out.println();
+				RequestDispatcher rd = req.getRequestDispatcher("login.jsp");
+				rd.forward(req, res);
+			} else {
+				st.executeUpdate(); // update in DB
+			}
+
+			if (password.equals(confirmPassword)) {
+				out.println("You are registered successfully\n Login to continue");
+				RequestDispatcher rd = req.getRequestDispatcher("login.jsp");// redirect to login page
+				rd.forward(req, res);
+			}
+
+		} catch (SQLException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+	}
+
+}

@@ -1,0 +1,50 @@
+package com.brdgelabz.loginRegister.DB;
+
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.PreparedStatement;
+import java.sql.ResultSet;
+import java.util.ArrayList;
+import java.util.List;
+
+import com.bridgelabz.loginRegister.ServletSession.Customer;
+
+public class listDao {
+
+	public static void getList() {
+
+		List<Customer> cust = new ArrayList<Customer>();
+		try {
+			String query = "SELECT  * " + "FROM   detail ";
+			Connection con = null;
+			Customer hDto = null;
+			String url = "jdbc:mysql://localhost:3306/";
+			String Db = "login";
+			String driver = "com.mysql.cj.jdbc.Driver";
+			Class.forName(driver);
+			con = DriverManager.getConnection(url + Db, "root", "password");
+			PreparedStatement ps = con.prepareStatement(query);
+			ResultSet rs = ps.executeQuery();
+
+			while (rs.next()) {
+
+				hDto = new Customer();
+				hDto.setName(rs.getString(1));
+				hDto.setPassword(rs.getString(2));
+				hDto.setEmail(rs.getString(3));
+				cust.add(hDto);
+
+			}
+			System.out.println(cust.toString());
+			
+		} catch (Exception ex) {
+			ex.printStackTrace();
+		} finally {
+			// return cust;
+		}
+	}
+
+	public static void main(String[] args) {
+		getList();
+	}
+}

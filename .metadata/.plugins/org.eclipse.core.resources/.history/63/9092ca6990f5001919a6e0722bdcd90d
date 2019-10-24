@@ -1,0 +1,47 @@
+<%@page import="com.bridgelabz.loginRegister.ServletSession.Customer"%>
+<%@page import="java.util.List"%>
+<%@page import="java.util.ArrayList"%>
+<%@page import="com.sun.xml.internal.bind.v2.schemagen.xmlschema.List"%>
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+	pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+
+	<%
+	ArrayList<Customer> customerList = (ArrayList<Customer>) request.getSession().getAttribute("List");
+	%>
+	<form action="Welcome" method="post">welcome ${username}....</form>
+	<table class="table" border="1" align="center">
+		<thead>
+			<tr>
+				<th width="200" hight="100" scope="col">Name</th>
+				<th width="200" hight="100" scope="col">email</th>
+			</tr>
+		</thead>
+		<tbody>
+			<%
+				while (rs.next()) {
+			%>
+			<tr>
+				<td><%=rs.getString(1)%></td>
+				<td><%=rs.getString(3)%></td>
+
+			</tr>
+			<%
+				}
+			%>
+		</tbody>
+	</table>
+	<form action="logout">
+		<input type="submit" value="logout">
+	</form>
+
+
+
+</body>
+</html>

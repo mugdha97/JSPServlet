@@ -1,0 +1,51 @@
+package com.brdgelabz.loginRegister.DB;
+
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.PreparedStatement;
+import java.sql.ResultSet;
+import java.sql.SQLException;
+
+import com.mysql.cj.protocol.Resultset;
+
+public class Content {
+	static String sql="select * from detail";
+	public void displayUser() throws SQLException
+	{
+		
+		Connection con = null;
+		String url = "jdbc:mysql://localhost:3306/";
+		String db = "login";
+		String driver = "com.mysql.cj.jdbc.Driver";
+		try {
+			Class.forName(driver);
+			con = DriverManager.getConnection(url + db, "root", "password");
+			try {
+				PreparedStatement smt=con.prepareStatement("select * from detail");
+				
+			      ResultSet rs = smt.executeQuery();
+
+			      //STEP 5: Extract data from result set
+			      while(rs.next()){
+			         //Retrieve by column name
+			         String name =rs.getString("name");
+			         String mail = rs.getString("email");
+			    //     String last = rs.getString("last");
+
+			         //Display values
+			         System.out.print("\nName: " + name);
+			         System.out.print("\nAddress: " + mail);
+			         //System.out.println(", Last: " + last);
+			} 
+			}catch(Exception e) {
+				
+			}finally{
+			con.close();
+		}
+	//	return null;
+		
+	}catch(Exception e) {
+		
+	}
+}
+}

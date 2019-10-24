@@ -1,0 +1,60 @@
+package com.brdgelabz.loginRegister.DB;
+
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.PreparedStatement;
+import java.sql.ResultSet;
+import java.sql.SQLException;
+
+public class RegisterConnection {
+	String sql="insert into detail values(?,?)";
+	public void registerUser(String uname,String password) throws SQLException
+	{
+		Connection con = null;
+		String url = "jdbc:mysql://localhost:3306/";
+		String db = "login";
+		String driver = "com.mysql.cj.jdbc.Driver";
+		try {
+			Class.forName(driver);  
+			con = DriverManager.getConnection(url + db, "root", "password");
+			PreparedStatement ps=con.prepareStatement(sql);  
+					ps.setString(1,uname);  
+					ps.setString(2,password);  
+					ps.executeUpdate();
+					System.out.println("New User register successfully....");
+			}catch(Exception e) {
+				
+			}
+		finally{
+			con.close();
+		}
+		
+	}
+	String sql1="select * from detail where uname=? and pass=?";
+	public boolean checkUser(String uname,String password) throws SQLException
+	{
+		Connection con = null;
+		String url = "jdbc:mysql://localhost:3306/";
+		String db = "login";
+		String driver = "com.mysql.cj.jdbc.Driver";
+		try {
+			Class.forName(driver);  
+			con = DriverManager.getConnection(url + db, "root", "password");
+			PreparedStatement ps1=con.prepareStatement(sql1);  
+					ps1.setString(1,uname);  
+					ps1.setString(2,password);  
+					ResultSet rs1=ps1.executeUpdate();  
+					if(rs.next())
+					{
+						return true;
+					}
+					
+			}catch(Exception e) {
+				
+			}finally {
+				con.close();
+			}
+		return false;
+		
+	}
+}

@@ -1,0 +1,32 @@
+package com.brdgelabz.loginRegister.DB;
+
+import java.sql.*;
+
+
+public class DbConnection {
+//	String sql="select * from detail where uname=? and pass=?";
+	public static Connection getConnection(String uname,String password) throws SQLException
+	{
+		Connection con = null;
+		String url = "jdbc:mysql://localhost:3306/login";
+		String driver = "com.mysql.cj.jdbc.Driver";
+		try {
+			Class.forName(driver);  
+			con=DriverManager.getConnection(url, "root", "password");
+			return con;
+//			PreparedStatement ps=con.prepareStatement(sql);  
+//					ps.setString(1,uname);  
+//					ps.setString(2,password);  
+//					ResultSet rs=ps.executeQuery();  
+//					if(rs.next())
+//					{
+//						return true;
+//					}
+					
+			}catch(Exception e) {
+				
+			}
+		return null;
+		
+	}
+}

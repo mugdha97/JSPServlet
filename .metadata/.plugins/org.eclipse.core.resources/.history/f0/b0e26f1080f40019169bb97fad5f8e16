@@ -1,0 +1,5 @@
+package com.bridgelabz.loginPage.model;
+
+public class DbConnector {
+
+}

@@ -1,0 +1,30 @@
+<%@page import="java.util.ArrayList"%>
+<%@page import="com.bridgelabz.loginRegister.ServletSession.Customer"%>
+<%@page import="java.util.List"%>
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+<form action="welcome" method="post">
+<%  
+// retrieve your list from the request, with casting 
+List<Customer> list = (ArrayList<Customer>) request.getAttribute("List");
+
+
+// print the information about every category of the list
+for(Customer category : list) {
+    out.println(category.getName());
+    out.println(category.getEmail());
+    
+}
+%>
+welcome ${username}....
+</form>
+
+</body>
+</html>

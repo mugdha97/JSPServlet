@@ -1,0 +1,5 @@
+package com.bridgelabz.loginRegister.ServletSession;
+
+public class Customer {
+
+}

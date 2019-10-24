@@ -1,0 +1,23 @@
+1571629727234	Delete element
+1571630494703	Rename type 'LoginConnection'
+1571630768791	Rename type 'DbCOnnection'
+1571649391957	Delete element
+1571649657413	Move 'Content.jsp' to 'com.bridgelabz.loginRegister'
+1571649706696	Move 'Content.jsp' to 'WebContent'
+1571650542301	Delete element
+1571650555488	Delete element
+1571653927967	Copy compilation unit
+1571653932805	Delete element
+1571834029641	Delete element
+1571834287010	Rename type 'login'
+1571834459434	Rename type 'welcome'
+1571835262364	Rename type 'logout'
+1571835307021	Rename resource 'login.jsp'
+1571835326375	Rename resource 'login.css'
+1571835414299	Delete element
+1571835535852	Rename type 'DbConnection'
+1571835594596	Rename type 'listDao'
+1571835641972	Delete element
+1571835696151	Rename package 'com.brdgelabz.loginRegister.DB'
+1571835724120	Rename type 'RegisterConnection'
+1571835748897	Rename package 'com.bridgelabz.loginRegister.ServletSession'

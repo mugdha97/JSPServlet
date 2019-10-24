@@ -1,0 +1,590 @@
+
+Oct 18, 2019 19:16:59.80 NEW SESSION
+Oct 18, 2019 19:16:59.80 [23096:23096:1018/191659.798317:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 18, 2019 19:17:00.32 Opening in existing browser session.
+Oct 18, 2019 19:18:46.41 [23713:23713:1018/191846.410276:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 18, 2019 19:18:46.47 Opening in existing browser session.
+Oct 18, 2019 19:20:13.33 [24209:24209:1018/192013.335637:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 18, 2019 19:20:13.51 Opening in existing browser session.
+
+Oct 19, 2019 10:08:39.90 NEW SESSION
+Oct 19, 2019 10:08:39.90 [21624:21624:1019/100839.903240:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 19, 2019 10:08:40.00 Opening in existing browser session.
+Oct 19, 2019 10:09:38.62 [21970:21970:1019/100938.622391:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 19, 2019 10:09:38.71 Opening in existing browser session.
+Oct 19, 2019 10:11:04.52 [22410:22410:1019/101104.525565:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 19, 2019 10:11:04.62 Opening in existing browser session.
+Oct 19, 2019 10:12:19.62 [22832:22832:1019/101219.624051:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 19, 2019 10:12:19.72 Opening in existing browser session.
+Oct 19, 2019 10:13:06.71 [23146:23146:1019/101306.718540:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 19, 2019 10:13:06.80 Opening in existing browser session.
+Oct 19, 2019 10:21:31.45 [25366:25366:1019/102131.452998:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 19, 2019 10:21:31.54 Opening in existing browser session.
+Oct 19, 2019 10:54:18.50 Opening in existing browser session.
+
+Oct 21, 2019 08:51:37.88 NEW SESSION
+Oct 21, 2019 08:51:37.88 [11048:11048:1021/085137.879854:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 21, 2019 08:51:38.04 Opening in existing browser session.
+Oct 21, 2019 09:06:22.88 Opening in existing browser session.
+Oct 21, 2019 09:22:46.31 [19424:19424:1021/092246.311216:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 21, 2019 09:22:46.38 Opening in existing browser session.
+Oct 21, 2019 09:23:20.65 Opening in existing browser session.
+Oct 21, 2019 09:44:41.00 Opening in existing browser session.
+Oct 21, 2019 09:47:00.61 [26090:26090:1021/094700.617597:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 21, 2019 09:47:00.70 Opening in existing browser session.
+Oct 21, 2019 09:48:00.12 [26528:26528:1021/094800.122806:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 21, 2019 09:48:00.19 Opening in existing browser session.
+Oct 21, 2019 09:48:45.87 [26893:26893:1021/094845.875171:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 21, 2019 09:48:45.93 Opening in existing browser session.
+Oct 21, 2019 09:50:19.55 [27378:27378:1021/095019.558823:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 21, 2019 09:50:19.64 Opening in existing browser session.
+Oct 21, 2019 09:52:15.71 [28038:28038:1021/095215.713405:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 21, 2019 09:52:15.80 Opening in existing browser session.
+Oct 21, 2019 09:52:25.72 [28192:28192:1021/095225.721441:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 21, 2019 09:52:25.94 Opening in existing browser session.
+Oct 21, 2019 09:53:39.32 [28589:28589:1021/095339.328134:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 21, 2019 09:53:39.41 Opening in existing browser session.
+Oct 21, 2019 10:08:45.28 [32075:32075:1021/100845.281696:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 21, 2019 10:08:45.36 Opening in existing browser session.
+Oct 21, 2019 10:09:42.06 [32472:32472:1021/100942.066547:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 21, 2019 10:09:42.15 Opening in existing browser session.
+Oct 21, 2019 10:14:35.40 [1323:1323:1021/101435.407051:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 21, 2019 10:14:35.48 Opening in existing browser session.
+Oct 21, 2019 10:19:01.44 [2762:2762:1021/101901.446318:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 21, 2019 10:19:01.53 Opening in existing browser session.
+Oct 21, 2019 10:20:29.76 Opening in existing browser session.
+Oct 21, 2019 10:21:14.80 Opening in existing browser session.
+Oct 21, 2019 10:22:12.36 [4165:4165:1021/102212.364513:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 21, 2019 10:22:12.50 Opening in existing browser session.
+Oct 21, 2019 10:23:45.99 [4712:4712:1021/102345.996014:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 21, 2019 10:23:46.07 Opening in existing browser session.
+Oct 21, 2019 10:25:16.48 [5237:5237:1021/102516.489443:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 21, 2019 10:25:16.56 Opening in existing browser session.
+Oct 21, 2019 10:31:38.61 [7240:7240:1021/103138.611632:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 21, 2019 10:31:38.66 Opening in existing browser session.
+Oct 21, 2019 10:32:53.25 [7738:7738:1021/103253.250501:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 21, 2019 10:32:53.30 Opening in existing browser session.
+Oct 21, 2019 10:33:46.35 Opening in existing browser session.
+Oct 21, 2019 10:34:21.07 Opening in existing browser session.
+Oct 21, 2019 10:36:47.24 Opening in existing browser session.
+Oct 21, 2019 10:38:58.48 [10088:10088:1021/103858.483440:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 21, 2019 10:38:58.57 Opening in existing browser session.
+Oct 21, 2019 11:03:23.62 [15533:15533:1021/110323.622890:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 21, 2019 11:03:23.68 Opening in existing browser session.
+Oct 21, 2019 11:04:54.26 [16015:16015:1021/110454.268747:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 21, 2019 11:04:54.35 Opening in existing browser session.
+Oct 21, 2019 11:08:45.20 [17239:17239:1021/110845.205411:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 21, 2019 11:08:45.27 Opening in existing browser session.
+Oct 21, 2019 11:08:53.84 Opening in existing browser session.
+Oct 21, 2019 11:09:38.17 Opening in existing browser session.
+Oct 21, 2019 11:15:16.32 [19221:19221:1021/111516.321098:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 21, 2019 11:15:16.39 Opening in existing browser session.
+Oct 21, 2019 11:18:50.21 [20315:20315:1021/111850.215940:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 21, 2019 11:18:50.29 Opening in existing browser session.
+Oct 21, 2019 11:21:01.32 [21042:21042:1021/112101.322199:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 21, 2019 11:21:01.39 Opening in existing browser session.
+Oct 21, 2019 11:22:01.45 [21489:21489:1021/112201.455465:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 21, 2019 11:22:01.54 Opening in existing browser session.
+Oct 21, 2019 11:25:07.72 [22385:22385:1021/112507.721056:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 21, 2019 11:25:07.79 Opening in existing browser session.
+Oct 21, 2019 11:25:38.60 Opening in existing browser session.
+Oct 21, 2019 11:27:02.59 Opening in existing browser session.
+Oct 21, 2019 11:38:37.18 [26116:26116:1021/113837.186808:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 21, 2019 11:38:37.26 Opening in existing browser session.
+Oct 21, 2019 11:39:49.83 [26586:26586:1021/113949.835254:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 21, 2019 11:39:49.89 Opening in existing browser session.
+Oct 21, 2019 11:40:45.13 [27006:27006:1021/114045.133982:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 21, 2019 11:40:45.19 Opening in existing browser session.
+Oct 21, 2019 11:41:10.34 [27239:27239:1021/114110.339926:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 21, 2019 11:41:10.41 Opening in existing browser session.
+Oct 21, 2019 11:43:42.42 [28053:28053:1021/114342.422433:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 21, 2019 11:43:42.68 Opening in existing browser session.
+Oct 21, 2019 11:48:19.52 [29488:29488:1021/114819.526242:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 21, 2019 11:48:19.61 Opening in existing browser session.
+Oct 21, 2019 11:49:24.57 Opening in existing browser session.
+Oct 21, 2019 12:03:14.22 [909:909:1021/120314.224466:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 21, 2019 12:03:14.31 Opening in existing browser session.
+Oct 21, 2019 12:08:39.64 [2709:2709:1021/120839.646030:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 21, 2019 12:08:39.70 Opening in existing browser session.
+Oct 21, 2019 12:14:34.51 [4595:4595:1021/121434.510461:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 21, 2019 12:14:34.57 Opening in existing browser session.
+Oct 21, 2019 12:20:02.77 [6387:6387:1021/122002.777441:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 21, 2019 12:20:02.86 Opening in existing browser session.
+Oct 21, 2019 12:22:01.86 [7083:7083:1021/122201.860842:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 21, 2019 12:22:01.94 Opening in existing browser session.
+Oct 21, 2019 12:25:21.62 [8152:8152:1021/122521.621272:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 21, 2019 12:25:21.69 Opening in existing browser session.
+Oct 21, 2019 12:27:13.67 [8809:8809:1021/122713.676440:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 21, 2019 12:27:13.74 Opening in existing browser session.
+Oct 21, 2019 12:27:58.16 [9308:9308:1021/122758.161703:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 21, 2019 12:27:58.23 Opening in existing browser session.
+Oct 21, 2019 12:29:38.19 [9890:9890:1021/122938.190840:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 21, 2019 12:29:38.25 Opening in existing browser session.
+Oct 21, 2019 12:31:52.71 [10669:10669:1021/123152.715286:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 21, 2019 12:31:52.78 Opening in existing browser session.
+Oct 21, 2019 12:32:12.58 Opening in existing browser session.
+Oct 21, 2019 12:33:13.23 Opening in existing browser session.
+Oct 21, 2019 12:37:40.59 Opening in existing browser session.
+Oct 21, 2019 12:44:49.97 Opening in existing browser session.
+Oct 21, 2019 12:47:12.38 [15455:15455:1021/124712.380140:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 21, 2019 12:47:12.44 Opening in existing browser session.
+Oct 21, 2019 12:48:52.20 Opening in existing browser session.
+Oct 21, 2019 12:49:18.04 [16317:16317:1021/124918.046002:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 21, 2019 12:49:18.17 Opening in existing browser session.
+Oct 21, 2019 12:56:45.19 [18508:18508:1021/125645.196161:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 21, 2019 12:56:45.27 Opening in existing browser session.
+Oct 21, 2019 13:03:58.73 Opening in existing browser session.
+Oct 21, 2019 13:07:04.37 Opening in existing browser session.
+Oct 21, 2019 13:09:17.93 Opening in existing browser session.
+Oct 21, 2019 14:34:26.04 [10316:10316:1021/143426.044577:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 21, 2019 14:34:26.18 Opening in existing browser session.
+Oct 21, 2019 14:39:43.43 [11905:11905:1021/143943.423764:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 21, 2019 14:39:53.41 Opening in existing browser session.
+Oct 21, 2019 14:44:48.78 [13152:13152:1021/144448.782897:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 21, 2019 14:44:48.84 Opening in existing browser session.
+Oct 21, 2019 15:08:06.38 [18925:18925:1021/150806.383889:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 21, 2019 15:08:16.40 Opening in existing browser session.
+Oct 21, 2019 15:10:25.33 Opening in existing browser session.
+Oct 21, 2019 15:15:57.57 [21258:21258:1021/151557.577574:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 21, 2019 15:15:57.65 Opening in existing browser session.
+Oct 21, 2019 15:17:04.94 [21711:21711:1021/151704.943644:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 21, 2019 15:17:05.02 Opening in existing browser session.
+Oct 21, 2019 15:18:25.84 Opening in existing browser session.
+Oct 21, 2019 15:20:00.51 [22705:22705:1021/152000.517089:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 21, 2019 15:20:00.61 Opening in existing browser session.
+Oct 21, 2019 15:45:09.93 Opening in existing browser session.
+Oct 21, 2019 15:47:14.87 [29210:29210:1021/154714.878836:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 21, 2019 15:47:14.96 Opening in existing browser session.
+Oct 21, 2019 15:48:19.74 [29597:29597:1021/154819.747851:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 21, 2019 15:48:19.83 Opening in existing browser session.
+Oct 21, 2019 15:49:39.48 Opening in existing browser session.
+Oct 21, 2019 15:50:40.24 [30520:30520:1021/155040.241757:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 21, 2019 15:50:40.31 Opening in existing browser session.
+Oct 21, 2019 15:55:10.98 [31837:31837:1021/155510.979890:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 21, 2019 15:55:11.04 Opening in existing browser session.
+Oct 21, 2019 16:06:47.84 Opening in existing browser session.
+Oct 21, 2019 16:09:02.54 Opening in existing browser session.
+Oct 21, 2019 16:13:24.06 [4765:4765:1021/161324.062757:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 21, 2019 16:13:24.15 Opening in existing browser session.
+Oct 21, 2019 16:14:24.97 [5259:5259:1021/161424.974497:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 21, 2019 16:14:25.04 Opening in existing browser session.
+Oct 21, 2019 16:18:14.32 [6672:6672:1021/161814.325431:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 21, 2019 16:18:14.39 Opening in existing browser session.
+Oct 21, 2019 16:18:49.58 [6952:6952:1021/161849.580342:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 21, 2019 16:18:49.65 Opening in existing browser session.
+Oct 21, 2019 16:31:35.68 [10692:10692:1021/163135.685405:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 21, 2019 16:31:35.76 Opening in existing browser session.
+Oct 21, 2019 16:38:08.72 [12485:12485:1021/163808.722518:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 21, 2019 16:38:08.81 Opening in existing browser session.
+Oct 21, 2019 16:44:33.95 Opening in existing browser session.
+Oct 21, 2019 16:46:42.63 [15143:15143:1021/164642.631473:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 21, 2019 16:46:42.72 Opening in existing browser session.
+Oct 21, 2019 16:47:58.60 Opening in existing browser session.
+Oct 21, 2019 16:49:40.46 Opening in existing browser session.
+Oct 21, 2019 16:51:16.21 Opening in existing browser session.
+Oct 21, 2019 16:53:16.46 Opening in existing browser session.
+Oct 21, 2019 16:53:49.96 [17779:17779:1021/165349.963842:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 21, 2019 16:53:50.03 Opening in existing browser session.
+Oct 21, 2019 16:54:20.39 [18018:18018:1021/165420.395397:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 21, 2019 16:54:20.45 Opening in existing browser session.
+Oct 21, 2019 16:55:16.80 Opening in existing browser session.
+Oct 21, 2019 16:58:06.61 Opening in existing browser session.
+Oct 21, 2019 16:58:36.77 [19611:19611:1021/165836.778060:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 21, 2019 16:58:36.86 Opening in existing browser session.
+Oct 21, 2019 16:59:46.14 Opening in existing browser session.
+Oct 21, 2019 17:09:50.66 [22738:22738:1021/170950.662355:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 21, 2019 17:09:50.74 Opening in existing browser session.
+Oct 21, 2019 17:11:03.65 Opening in existing browser session.
+Oct 21, 2019 17:11:47.87 Opening in existing browser session.
+Oct 21, 2019 17:19:57.82 [25762:25762:1021/171957.824647:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 21, 2019 17:19:57.90 Opening in existing browser session.
+Oct 21, 2019 17:21:06.51 Opening in existing browser session.
+Oct 21, 2019 17:22:49.37 [26668:26668:1021/172249.371639:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 21, 2019 17:22:49.59 Opening in existing browser session.
+Oct 21, 2019 17:27:23.24 Opening in existing browser session.
+Oct 21, 2019 17:27:39.51 Opening in existing browser session.
+Oct 21, 2019 17:30:20.48 Opening in existing browser session.
+Oct 21, 2019 17:31:24.39 Opening in existing browser session.
+Oct 21, 2019 17:34:36.77 [30226:30226:1021/173436.777371:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 21, 2019 17:34:36.87 Opening in existing browser session.
+Oct 21, 2019 17:35:20.44 Opening in existing browser session.
+Oct 21, 2019 17:36:55.61 [30977:30977:1021/173655.609902:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 21, 2019 17:36:55.68 Opening in existing browser session.
+Oct 21, 2019 17:37:20.98 [31225:31225:1021/173720.986617:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 21, 2019 17:37:21.06 Opening in existing browser session.
+Oct 21, 2019 17:38:54.54 [31700:31700:1021/173854.541255:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 21, 2019 17:38:54.65 Opening in existing browser session.
+Oct 21, 2019 17:41:04.50 [32386:32386:1021/174104.502799:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 21, 2019 17:41:04.57 Opening in existing browser session.
+Oct 21, 2019 17:42:56.60 [493:493:1021/174256.603361:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 21, 2019 17:42:56.69 Opening in existing browser session.
+Oct 21, 2019 17:52:30.16 [2848:2848:1021/175230.162695:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 21, 2019 17:52:30.24 Opening in existing browser session.
+Oct 21, 2019 17:54:26.38 Opening in existing browser session.
+Oct 21, 2019 18:17:54.51 [10061:10061:1021/181754.519519:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 21, 2019 18:17:54.67 Opening in existing browser session.
+Oct 21, 2019 18:19:32.75 [10586:10586:1021/181932.752856:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 21, 2019 18:19:32.81 Opening in existing browser session.
+Oct 21, 2019 18:21:26.96 [11251:11251:1021/182126.965603:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 21, 2019 18:21:27.04 Opening in existing browser session.
+Oct 21, 2019 18:22:50.69 [11790:11790:1021/182250.695760:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 21, 2019 18:22:50.79 Opening in existing browser session.
+Oct 21, 2019 18:29:27.21 [13561:13561:1021/182927.210647:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 21, 2019 18:29:27.28 Opening in existing browser session.
+Oct 21, 2019 18:30:09.63 [13931:13931:1021/183009.631770:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 21, 2019 18:30:09.69 Opening in existing browser session.
+Oct 21, 2019 18:32:59.82 Opening in existing browser session.
+Oct 21, 2019 18:42:16.00 [17345:17345:1021/184216.000152:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 21, 2019 18:42:16.07 Opening in existing browser session.
+Oct 21, 2019 18:46:14.90 [18529:18529:1021/184614.904181:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 21, 2019 18:46:14.99 Opening in existing browser session.
+Oct 21, 2019 18:48:44.70 Opening in existing browser session.
+Oct 21, 2019 18:49:47.54 [19705:19705:1021/184947.547002:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 21, 2019 18:49:47.62 Opening in existing browser session.
+Oct 21, 2019 18:49:59.56 [19873:19873:1021/184959.569616:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 21, 2019 18:49:59.63 Opening in existing browser session.
+Oct 21, 2019 18:55:34.12 [21498:21498:1021/185534.120321:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 21, 2019 18:55:34.21 Opening in existing browser session.
+Oct 21, 2019 19:02:19.96 [23336:23336:1021/190219.963017:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 21, 2019 19:02:20.04 Opening in existing browser session.
+Oct 21, 2019 19:03:41.87 Opening in existing browser session.
+Oct 21, 2019 19:04:13.77 [24151:24151:1021/190413.777937:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 21, 2019 19:04:13.87 Opening in existing browser session.
+Oct 21, 2019 19:05:01.30 [24554:24554:1021/190501.303854:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 21, 2019 19:05:01.38 Opening in existing browser session.
+Oct 21, 2019 19:08:40.89 [25616:25616:1021/190840.896507:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 21, 2019 19:08:40.97 Opening in existing browser session.
+Oct 21, 2019 19:10:35.90 Opening in existing browser session.
+Oct 21, 2019 19:14:28.72 [27388:27388:1021/191428.728393:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 21, 2019 19:14:28.81 Opening in existing browser session.
+Oct 21, 2019 19:16:21.61 Opening in existing browser session.
+Oct 21, 2019 19:18:24.75 Opening in existing browser session.
+
+Oct 22, 2019 09:10:44.40 NEW SESSION
+Oct 22, 2019 09:10:44.40 [9141:9141:1022/091044.405193:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 22, 2019 09:10:49.00 [9141:9141:1022/091049.002077:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+Oct 22, 2019 09:11:22.75 [9616:9616:1022/091122.755233:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 22, 2019 09:11:22.85 Opening in existing browser session.
+Oct 22, 2019 09:37:06.51 Opening in existing browser session.
+Oct 22, 2019 09:39:53.29 Opening in existing browser session.
+Oct 22, 2019 09:43:15.54 [18862:18862:1022/094315.544141:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 22, 2019 09:43:15.67 Opening in existing browser session.
+Oct 22, 2019 09:46:38.18 [19917:19917:1022/094638.183037:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 22, 2019 09:46:38.34 Opening in existing browser session.
+Oct 22, 2019 09:51:30.54 Opening in existing browser session.
+Oct 22, 2019 09:53:46.43 Opening in existing browser session.
+Oct 22, 2019 10:01:26.88 [24039:24039:1022/100126.889697:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 22, 2019 10:01:26.96 Opening in existing browser session.
+Oct 22, 2019 10:02:42.89 [24561:24561:1022/100242.890546:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 22, 2019 10:02:42.96 Opening in existing browser session.
+Oct 22, 2019 10:05:49.78 [25530:25530:1022/100549.785168:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 22, 2019 10:05:49.85 Opening in existing browser session.
+Oct 22, 2019 10:06:48.26 [25948:25948:1022/100648.269281:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 22, 2019 10:06:48.41 Opening in existing browser session.
+Oct 22, 2019 10:07:57.50 [26417:26417:1022/100757.503993:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 22, 2019 10:07:57.58 Opening in existing browser session.
+Oct 22, 2019 10:08:57.50 Opening in existing browser session.
+Oct 22, 2019 10:09:52.27 Opening in existing browser session.
+Oct 22, 2019 10:10:22.52 [27483:27483:1022/101022.522042:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 22, 2019 10:10:22.59 Opening in existing browser session.
+Oct 22, 2019 10:12:23.09 [28197:28197:1022/101223.094376:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 22, 2019 10:12:23.18 Opening in existing browser session.
+Oct 22, 2019 10:13:19.85 [28553:28553:1022/101319.850492:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 22, 2019 10:13:19.92 Opening in existing browser session.
+Oct 22, 2019 10:18:34.46 Opening in existing browser session.
+Oct 22, 2019 10:27:07.19 Opening in existing browser session.
+Oct 22, 2019 10:43:09.40 [3820:3820:1022/104309.408675:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 22, 2019 10:43:09.48 Opening in existing browser session.
+Oct 22, 2019 10:44:46.79 Opening in existing browser session.
+Oct 22, 2019 10:45:49.65 [5060:5060:1022/104549.659418:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 22, 2019 10:45:49.73 Opening in existing browser session.
+Oct 22, 2019 10:46:34.23 [5375:5375:1022/104634.238421:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 22, 2019 10:46:34.31 Opening in existing browser session.
+Oct 22, 2019 10:47:51.54 [5858:5858:1022/104751.545315:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 22, 2019 10:47:51.62 Opening in existing browser session.
+Oct 22, 2019 10:54:15.15 [7714:7714:1022/105415.150450:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 22, 2019 10:54:15.22 Opening in existing browser session.
+Oct 22, 2019 10:58:45.16 [8963:8963:1022/105845.162007:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 22, 2019 10:58:45.24 Opening in existing browser session.
+Oct 22, 2019 11:04:52.80 Opening in existing browser session.
+Oct 22, 2019 11:16:02.44 Opening in existing browser session.
+Oct 22, 2019 11:17:43.92 Opening in existing browser session.
+Oct 22, 2019 11:18:54.43 [14427:14427:1022/111854.439693:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 22, 2019 11:18:54.49 Opening in existing browser session.
+Oct 22, 2019 11:19:57.42 [14835:14835:1022/111957.424524:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 22, 2019 11:19:57.50 Opening in existing browser session.
+Oct 22, 2019 11:20:39.38 Opening in existing browser session.
+Oct 22, 2019 11:21:14.75 [15413:15413:1022/112114.755988:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 22, 2019 11:21:14.82 Opening in existing browser session.
+Oct 22, 2019 11:23:14.25 [15991:15991:1022/112314.257916:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 22, 2019 11:23:14.33 Opening in existing browser session.
+Oct 22, 2019 11:31:05.89 [17997:17997:1022/113105.893232:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 22, 2019 11:31:05.97 Opening in existing browser session.
+Oct 22, 2019 11:33:06.64 Opening in existing browser session.
+Oct 22, 2019 11:37:16.50 [19898:19898:1022/113716.505438:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 22, 2019 11:37:16.58 Opening in existing browser session.
+Oct 22, 2019 11:42:19.69 [21380:21380:1022/114219.698140:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 22, 2019 11:42:19.79 Opening in existing browser session.
+Oct 22, 2019 11:44:05.44 Opening in existing browser session.
+Oct 22, 2019 11:49:02.65 [23281:23281:1022/114902.654760:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 22, 2019 11:49:02.70 Opening in existing browser session.
+Oct 22, 2019 11:51:33.12 Opening in existing browser session.
+Oct 22, 2019 11:56:03.06 [25289:25289:1022/115603.065775:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 22, 2019 11:56:03.13 Opening in existing browser session.
+Oct 22, 2019 11:58:19.33 [26000:26000:1022/115819.330622:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 22, 2019 11:58:19.40 Opening in existing browser session.
+Oct 22, 2019 12:03:49.01 [27389:27389:1022/120349.018059:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 22, 2019 12:03:49.11 Opening in existing browser session.
+Oct 22, 2019 12:13:26.51 [29908:29908:1022/121326.518648:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 22, 2019 12:13:26.60 Opening in existing browser session.
+Oct 22, 2019 12:16:45.92 [30875:30875:1022/121645.922255:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 22, 2019 12:16:46.00 Opening in existing browser session.
+Oct 22, 2019 12:18:34.13 Opening in existing browser session.
+Oct 22, 2019 12:19:50.34 [31859:31859:1022/121950.347917:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 22, 2019 12:19:50.41 Opening in existing browser session.
+Oct 22, 2019 12:20:52.86 [32272:32272:1022/122052.862222:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 22, 2019 12:20:52.94 Opening in existing browser session.
+Oct 22, 2019 12:22:28.09 [315:315:1022/122228.095676:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 22, 2019 12:22:28.15 Opening in existing browser session.
+Oct 22, 2019 12:24:08.31 [904:904:1022/122408.318375:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 22, 2019 12:24:08.38 Opening in existing browser session.
+Oct 22, 2019 12:25:17.61 Opening in existing browser session.
+Oct 22, 2019 12:27:36.47 [2110:2110:1022/122736.479425:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 22, 2019 12:27:36.56 Opening in existing browser session.
+Oct 22, 2019 12:39:41.93 [5538:5538:1022/123941.937114:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 22, 2019 12:39:42.02 Opening in existing browser session.
+Oct 22, 2019 12:41:34.15 Opening in existing browser session.
+Oct 22, 2019 12:42:41.80 Opening in existing browser session.
+Oct 22, 2019 12:43:25.05 [7008:7008:1022/124325.059200:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 22, 2019 12:43:25.15 Opening in existing browser session.
+Oct 22, 2019 12:44:08.73 Opening in existing browser session.
+Oct 22, 2019 12:45:34.48 [7818:7818:1022/124534.484133:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 22, 2019 12:45:34.56 Opening in existing browser session.
+Oct 22, 2019 14:29:31.59 Opening in existing browser session.
+Oct 22, 2019 14:44:24.13 Opening in existing browser session.
+Oct 22, 2019 14:45:34.34 Opening in existing browser session.
+Oct 22, 2019 14:57:50.05 Opening in existing browser session.
+Oct 22, 2019 14:58:58.75 [5924:5924:1022/145858.757571:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 22, 2019 14:58:58.83 Opening in existing browser session.
+Oct 22, 2019 14:59:39.49 [6307:6307:1022/145939.490989:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 22, 2019 14:59:39.61 Opening in existing browser session.
+Oct 22, 2019 18:43:38.53 [25643:25643:1022/184338.537966:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 22, 2019 18:43:38.77 Opening in existing browser session.
+Oct 22, 2019 18:43:39.70 [25764:25764:1022/184339.707263:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 22, 2019 18:43:39.78 Opening in existing browser session.
+Oct 22, 2019 19:22:42.46 [3435:3435:1022/192242.465974:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 22, 2019 19:22:42.99 Opening in existing browser session.
+Oct 22, 2019 19:26:13.10 [4771:4771:1022/192613.102743:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 22, 2019 19:26:13.20 Opening in existing browser session.
+
+Oct 23, 2019 08:56:01.56 NEW SESSION
+Oct 23, 2019 08:56:01.56 [7454:7454:1023/085601.566164:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 23, 2019 08:56:06.82 [7454:7454:1023/085606.823990:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+Oct 23, 2019 09:17:49.79 [1:1:1023/091749.798612:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Oct 23, 2019 09:17:49.79 [1:1:1023/091749.798884:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Oct 23, 2019 09:18:15.14 [1:1:1023/091815.147595:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Oct 23, 2019 09:18:15.15 [1:1:1023/091815.149831:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Oct 23, 2019 09:18:15.15 [1:1:1023/091815.150650:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Oct 23, 2019 09:18:15.15 [1:1:1023/091815.150902:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Oct 23, 2019 09:18:26.20 [1:1:1023/091826.209595:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Oct 23, 2019 09:18:26.20 [1:1:1023/091826.209820:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Oct 23, 2019 09:18:38.99 [1:1:1023/091838.997750:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Oct 23, 2019 09:18:38.99 [1:1:1023/091838.998076:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Oct 23, 2019 09:19:46.81 [7454:7454:1023/091946.817417:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+Oct 23, 2019 09:19:52.98 [7454:7454:1023/091952.981482:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+Oct 23, 2019 09:19:57.33 [7454:7454:1023/091957.331017:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+Oct 23, 2019 09:20:04.77 [7454:7454:1023/092004.779543:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+Oct 23, 2019 09:20:42.07 [7454:7454:1023/092042.079021:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+Oct 23, 2019 09:20:48.02 [7454:7454:1023/092048.028409:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+Oct 23, 2019 09:21:15.44 [7454:7454:1023/092115.444595:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+Oct 23, 2019 09:35:05.39 [1:1:1023/093505.394547:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Oct 23, 2019 09:35:05.39 [1:1:1023/093505.395191:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Oct 23, 2019 09:35:25.47 [1:1:1023/093525.479804:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Oct 23, 2019 09:35:25.48 [1:1:1023/093525.483841:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Oct 23, 2019 09:35:25.48 [1:1:1023/093525.484514:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Oct 23, 2019 09:35:25.48 [1:1:1023/093525.484732:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Oct 23, 2019 09:36:20.90 [1:1:1023/093620.900575:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Oct 23, 2019 09:36:20.90 [1:1:1023/093620.900838:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Oct 23, 2019 09:36:20.90 [1:1:1023/093620.901336:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Oct 23, 2019 09:36:20.90 [1:1:1023/093620.901528:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Oct 23, 2019 09:36:22.11 [1:1:1023/093622.113718:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Oct 23, 2019 09:36:22.12 [1:1:1023/093622.120614:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Oct 23, 2019 09:37:15.57 [7454:7454:1023/093715.574019:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+Oct 23, 2019 09:54:18.26 [1:1:1023/095418.262558:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Oct 23, 2019 09:54:18.26 [1:1:1023/095418.262825:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Oct 23, 2019 13:24:12.61 [1:1:1023/132412.614758:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Oct 23, 2019 13:24:12.61 [1:1:1023/132412.614978:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Oct 23, 2019 14:53:57.34 [23209:23209:1023/145357.344122:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 23, 2019 14:53:57.47 Opening in existing browser session.
+Oct 23, 2019 15:00:08.18 [25042:25042:1023/150008.179182:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 23, 2019 15:00:08.27 Opening in existing browser session.
+Oct 23, 2019 15:01:23.76 Opening in existing browser session.
+Oct 23, 2019 15:05:59.82 Opening in existing browser session.
+Oct 23, 2019 15:06:16.17 [27046:27046:1023/150616.175970:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 23, 2019 15:06:16.26 Opening in existing browser session.
+Oct 23, 2019 15:07:19.87 Opening in existing browser session.
+Oct 23, 2019 15:08:15.81 Opening in existing browser session.
+Oct 23, 2019 15:18:26.29 [30418:30418:1023/151826.290678:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 23, 2019 15:18:26.36 Opening in existing browser session.
+Oct 23, 2019 15:22:50.54 Opening in existing browser session.
+Oct 23, 2019 15:24:30.66 Opening in existing browser session.
+Oct 23, 2019 15:26:36.57 Opening in existing browser session.
+Oct 23, 2019 15:28:39.08 [1375:1375:1023/152839.086235:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 23, 2019 15:28:39.19 Opening in existing browser session.
+Oct 23, 2019 15:30:02.75 [1887:1887:1023/153002.759150:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 23, 2019 15:30:02.87 Opening in existing browser session.
+Oct 23, 2019 15:31:10.24 Opening in existing browser session.
+Oct 23, 2019 15:35:31.89 [1:1:1023/153531.898342:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Oct 23, 2019 15:35:31.89 [1:1:1023/153531.898728:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Oct 23, 2019 15:35:31.90 [1:1:1023/153531.903927:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Oct 23, 2019 15:35:31.90 [1:1:1023/153531.904561:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Oct 23, 2019 15:35:36.41 [1:1:1023/153536.419493:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Oct 23, 2019 15:35:36.41 [1:1:1023/153536.419870:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Oct 23, 2019 15:36:11.28 [1:1:1023/153611.285489:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Oct 23, 2019 15:36:11.28 [1:1:1023/153611.285807:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Oct 23, 2019 15:36:11.28 [1:1:1023/153611.286355:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Oct 23, 2019 15:36:11.28 [1:1:1023/153611.286695:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Oct 23, 2019 15:50:36.14 [7981:7981:1023/155036.141044:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 23, 2019 15:50:36.20 Opening in existing browser session.
+Oct 23, 2019 15:51:34.50 [8394:8394:1023/155134.503411:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 23, 2019 15:51:34.57 Opening in existing browser session.
+Oct 23, 2019 16:46:01.78 [1:1:1023/164601.789312:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Oct 23, 2019 16:46:01.79 [1:1:1023/164601.789543:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Oct 23, 2019 16:46:04.29 [1:1:1023/164604.296962:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Oct 23, 2019 16:46:04.29 [1:1:1023/164604.297314:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Oct 23, 2019 16:46:04.29 [1:1:1023/164604.298437:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Oct 23, 2019 16:46:04.29 [1:1:1023/164604.298623:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Oct 23, 2019 16:46:04.29 [1:1:1023/164604.298998:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Oct 23, 2019 16:46:04.29 [1:1:1023/164604.299310:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Oct 23, 2019 16:46:04.30 [1:1:1023/164604.301029:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Oct 23, 2019 16:46:04.30 [1:1:1023/164604.301233:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Oct 23, 2019 16:46:18.40 [1:1:1023/164618.405240:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Oct 23, 2019 16:46:18.40 [1:1:1023/164618.405656:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Oct 23, 2019 16:46:18.43 [1:1:1023/164618.432439:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Oct 23, 2019 16:46:18.43 [1:1:1023/164618.433393:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Oct 23, 2019 16:46:18.49 [1:1:1023/164618.498096:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Oct 23, 2019 16:46:18.49 [1:1:1023/164618.498367:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Oct 23, 2019 16:46:19.15 [1:1:1023/164619.159761:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Oct 23, 2019 16:46:19.16 [1:1:1023/164619.160054:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Oct 23, 2019 16:46:19.16 [1:1:1023/164619.160494:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Oct 23, 2019 16:46:19.16 [1:1:1023/164619.160804:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Oct 23, 2019 16:47:34.29 [1:1:1023/164734.295149:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Oct 23, 2019 16:47:34.29 [1:1:1023/164734.295436:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Oct 23, 2019 16:47:34.29 [1:1:1023/164734.295948:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Oct 23, 2019 16:47:34.29 [1:1:1023/164734.296256:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Oct 23, 2019 16:47:34.29 [1:1:1023/164734.296693:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Oct 23, 2019 16:47:34.29 [1:1:1023/164734.297219:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Oct 23, 2019 16:47:34.29 [1:1:1023/164734.298448:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Oct 23, 2019 16:47:34.29 [1:1:1023/164734.298687:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Oct 23, 2019 16:47:41.17 [1:1:1023/164741.176875:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Oct 23, 2019 16:47:41.17 [1:1:1023/164741.177367:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Oct 23, 2019 16:48:29.23 [1:1:1023/164829.238584:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Oct 23, 2019 16:48:29.23 [1:1:1023/164829.238885:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Oct 23, 2019 16:48:29.23 [1:1:1023/164829.239379:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Oct 23, 2019 16:48:29.23 [1:1:1023/164829.239584:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Oct 23, 2019 16:49:08.97 [1:1:1023/164908.978806:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Oct 23, 2019 16:49:08.97 [1:1:1023/164908.979117:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Oct 23, 2019 16:49:34.36 [1:1:1023/164934.369663:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Oct 23, 2019 16:49:34.37 [1:1:1023/164934.369958:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Oct 23, 2019 16:49:34.37 [1:1:1023/164934.370584:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Oct 23, 2019 16:49:34.37 [1:1:1023/164934.370921:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Oct 23, 2019 16:54:04.36 Opening in existing browser session.
+Oct 23, 2019 16:56:52.88 [24829:24829:1023/165652.883522:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 23, 2019 16:56:52.95 Opening in existing browser session.
+Oct 23, 2019 16:59:59.08 [25706:25706:1023/165959.084811:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 23, 2019 16:59:59.17 Opening in existing browser session.
+Oct 23, 2019 17:03:35.80 [26719:26719:1023/170335.803933:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 23, 2019 17:03:35.86 Opening in existing browser session.
+Oct 23, 2019 17:10:17.15 Opening in existing browser session.
+Oct 23, 2019 17:11:30.61 [28793:28793:1023/171130.611745:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 23, 2019 17:11:30.70 Opening in existing browser session.
+Oct 23, 2019 17:12:08.82 [29067:29067:1023/171208.824514:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 23, 2019 17:12:08.91 Opening in existing browser session.
+Oct 23, 2019 17:15:58.51 [30048:30048:1023/171558.513686:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 23, 2019 17:15:58.57 Opening in existing browser session.
+Oct 23, 2019 17:17:35.06 Opening in existing browser session.
+Oct 23, 2019 17:20:43.56 Opening in existing browser session.
+Oct 23, 2019 17:24:16.92 [1:1:1023/172416.929200:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Oct 23, 2019 17:24:16.92 [1:1:1023/172416.929565:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Oct 23, 2019 17:24:21.29 [1:1:1023/172421.292795:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Oct 23, 2019 17:24:21.29 [1:1:1023/172421.293275:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Oct 23, 2019 17:24:21.29 [1:1:1023/172421.293985:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Oct 23, 2019 17:24:21.29 [1:1:1023/172421.294256:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Oct 23, 2019 17:28:17.07 [988:988:1023/172817.079043:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 23, 2019 17:28:17.17 Opening in existing browser session.
+Oct 23, 2019 17:36:19.93 [3229:3229:1023/173619.936709:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 23, 2019 17:36:20.02 Opening in existing browser session.
+Oct 23, 2019 17:42:19.19 Opening in existing browser session.
+Oct 23, 2019 17:45:10.10 [6050:6050:1023/174510.102470:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 23, 2019 17:45:10.16 Opening in existing browser session.
+Oct 23, 2019 17:48:30.39 [7258:7258:1023/174830.391735:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 23, 2019 17:48:30.49 Opening in existing browser session.
+Oct 23, 2019 17:51:28.18 Opening in existing browser session.
+Oct 23, 2019 17:52:08.17 [1:1:1023/175208.178329:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Oct 23, 2019 17:52:08.17 [1:1:1023/175208.178688:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Oct 23, 2019 17:53:15.46 [1:1:1023/175315.441409:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Oct 23, 2019 17:53:15.46 [1:1:1023/175315.465167:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Oct 23, 2019 17:53:15.46 [1:1:1023/175315.466186:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Oct 23, 2019 17:53:15.46 [1:1:1023/175315.467535:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Oct 23, 2019 17:53:43.15 [8851:8851:1023/175343.157061:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 23, 2019 17:53:43.22 Opening in existing browser session.
+Oct 23, 2019 17:59:58.25 [10652:10652:1023/175958.251491:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 23, 2019 17:59:58.33 Opening in existing browser session.
+Oct 23, 2019 18:01:26.93 Opening in existing browser session.
+Oct 23, 2019 18:02:04.05 Opening in existing browser session.
+Oct 23, 2019 18:33:00.74 Opening in existing browser session.
+Oct 23, 2019 18:38:22.33 [20538:20538:1023/183822.334650:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 23, 2019 18:38:22.41 Opening in existing browser session.
+Oct 23, 2019 18:41:55.54 Opening in existing browser session.
+Oct 23, 2019 18:43:35.00 [22082:22082:1023/184335.001023:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 23, 2019 18:43:35.09 Opening in existing browser session.
+Oct 23, 2019 18:43:44.96 Fontconfig error: Cannot load default config file
+Oct 23, 2019 18:44:04.20 [22350:22350:1023/184404.206666:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 23, 2019 18:44:04.35 Opening in existing browser session.
+Oct 23, 2019 18:45:54.71 [1:1:1023/184554.712281:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Oct 23, 2019 18:45:54.71 [1:1:1023/184554.712540:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Oct 23, 2019 18:46:47.48 [7454:7454:1023/184647.480556:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+Oct 23, 2019 18:48:04.96 [1:1:1023/184804.969309:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Oct 23, 2019 18:48:04.97 [1:1:1023/184804.970031:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Oct 23, 2019 18:48:13.18 [23558:23558:1023/184813.183315:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 23, 2019 18:48:13.25 Opening in existing browser session.
+Oct 23, 2019 18:58:43.93 [26348:26348:1023/185843.934492:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 23, 2019 18:58:44.03 Opening in existing browser session.
+Oct 23, 2019 18:58:57.48 [26511:26511:1023/185857.485291:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 23, 2019 18:58:57.55 Opening in existing browser session.
+Oct 23, 2019 19:00:26.97 [27081:27081:1023/190026.977116:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 23, 2019 19:00:27.04 Opening in existing browser session.
+Oct 23, 2019 19:01:25.23 Opening in existing browser session.
+Oct 23, 2019 19:02:13.77 [27860:27860:1023/190213.771720:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 23, 2019 19:02:13.83 Opening in existing browser session.
+Oct 23, 2019 19:03:37.30 Opening in existing browser session.
+Oct 23, 2019 19:05:05.73 [29004:29004:1023/190505.734776:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 23, 2019 19:05:05.82 Opening in existing browser session.
+Oct 23, 2019 19:06:23.28 [29479:29479:1023/190623.285150:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 23, 2019 19:06:23.35 Opening in existing browser session.
+Oct 23, 2019 19:08:47.92 Opening in existing browser session.
+Oct 23, 2019 19:09:13.90 [30598:30598:1023/190913.903228:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 23, 2019 19:09:13.96 Opening in existing browser session.
+Oct 23, 2019 19:09:37.23 Opening in existing browser session.
+Oct 23, 2019 19:10:09.55 Opening in existing browser session.
+Oct 23, 2019 19:11:12.66 [31594:31594:1023/191112.662473:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 23, 2019 19:11:12.73 Opening in existing browser session.
+Oct 23, 2019 19:12:27.86 Fontconfig error: Cannot load default config file
+Oct 23, 2019 19:12:47.60 Opening in existing browser session.
+Oct 23, 2019 19:15:00.13 [32728:32728:1023/191500.132912:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 23, 2019 19:15:00.22 Opening in existing browser session.
+Oct 23, 2019 19:15:04.00 [7454:7454:1023/191504.005357:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+Oct 23, 2019 19:15:07.04 [7454:7454:1023/191507.043412:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+Oct 23, 2019 19:16:34.81 [775:775:1023/191634.818826:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 23, 2019 19:16:34.89 Opening in existing browser session.
+Oct 23, 2019 19:16:41.58 [7454:7454:1023/191641.583223:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+Oct 23, 2019 19:16:44.71 [7454:7454:1023/191644.718095:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+Oct 23, 2019 19:17:58.21 [1235:1235:1023/191758.216875:ERROR:sandbox_linux.cc(369)] InitializeSandbox() called with multiple threads in process gpu-process.
+Oct 23, 2019 19:17:58.29 Opening in existing browser session.
+Oct 23, 2019 19:18:08.01 [7454:7454:1023/191808.011510:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+Oct 23, 2019 19:19:05.23 Opening in existing browser session.
+Oct 23, 2019 19:25:20.42 [7454:7454:1023/192520.421225:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+Oct 23, 2019 19:37:05.83 [1:1:1023/193705.839707:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Oct 23, 2019 19:37:05.84 [1:1:1023/193705.840166:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Oct 23, 2019 19:37:05.84 [1:1:1023/193705.840753:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.
+Oct 23, 2019 19:37:05.84 [1:1:1023/193705.841101:ERROR:child_process_sandbox_support_impl_linux.cc(81)] FontService unique font name matching request did not receive a response.

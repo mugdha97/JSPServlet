@@ -1,0 +1,59 @@
+package com.bridgelabz.loginPage.controller;
+
+import java.io.IOException;
+import java.io.PrintWriter;
+import java.sql.*;
+
+import javax.servlet.RequestDispatcher;
+import javax.servlet.ServletException;
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+import javax.servlet.http.HttpSession;
+
+import com.bridgelabz.loginPage.model.DbConnector;
+
+@WebServlet("/login")
+public class login extends HttpServlet {
+	static Connection connection = null;
+	PreparedStatement st = null;
+
+	public void doPost(HttpServletRequest req, HttpServletResponse res) throws IOException, ServletException {
+		String uname = req.getParameter("uname");		//get parameters from login page
+		String password = req.getParameter("password");
+		boolean login = false;
+		PrintWriter out = res.getWriter();
+		String query = "select * from detail";
+		connection = DbConnector.getConnection();
+		try {
+			st = connection.prepareStatement(query);
+			ResultSet rs = st.executeQuery();		//store data from DB
+			req.setAttribute("resultSet", rs);		//set attribute to resultSet
+			while (rs.next()) {
+				if (rs.getString(uname).equals(uname)) {		//validation
+					if (rs.getString(pass).equals(password)) {
+						login = true;
+						HttpSession session = req.getSession();		//create session
+//						session.setAttribute("resultSet", rs);
+						session.setAttribute("uname", uname);		//set uname attribute
+						session.setAttribute("password", password);	//set password attribute
+						
+						RequestDispatcher rd=req.getRequestDispatcher("welcome.jsp");//redirect to welcome page
+						rd.forward(req, res);
+					}
+				}
+			}
+			if (!login) {	//if connection not establish
+				out.println("username or password entered is wrong");
+				RequestDispatcher rd = req.getRequestDispatcher("login.jsp");//redirect to login page
+				rd.forward(req, res);
+			}
+		} catch (SQLException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+
+	}
+
+}
